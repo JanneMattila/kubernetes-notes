@@ -48,6 +48,8 @@ and replicate that environment for your own testing purposes.
 
 [Kubernetes Probe Demo](https://github.com/JanneMattila/KubernetesProbeDemo)
 
+[Playground AKS GitOps](https://github.com/JanneMattila/playground-aks-gitops)
+
 ### Multi-tenancy
 
 [Playground-k8s-multi-tenancy](https://github.com/JanneMattila/playground-k8s-multi-tenancy)
