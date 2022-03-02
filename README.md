@@ -24,8 +24,42 @@ and replicate that environment for your own testing purposes.
 
 [Playground AKS Identity](https://github.com/JanneMattila/playground-aks-identity)
 
+[Cluster with Azure AD Auth](https://github.com/JanneMattila/k8s-cluster)
+
+### Maintenance
+
+[Playground AKS Maintenance](https://github.com/JanneMattila/playground-aks-maintenance)
+
+[Playground AKS Scaling](https://github.com/JanneMattila/playground-aks-scaling)
+
+### Windows
+
+[Playground AKS Windows](https://github.com/JanneMattila/playground-aks-windows)
+
+### Networking
+
+[Playground AKS Networking](https://github.com/JanneMattila/playground-aks-networking)
+
+[Playground Private AKS](https://github.com/JanneMattila/playground-private-aks)
+
+[Playground for AKS and AGIC (Application Gateway Ingress Controller)](https://github.com/JanneMattila/playground-aks-agic)
+
+### Development
+
+[Kubernetes Probe Demo](https://github.com/JanneMattila/KubernetesProbeDemo)
+
 ### Multi-tenancy
 
 [Playground-k8s-multi-tenancy](https://github.com/JanneMattila/playground-k8s-multi-tenancy)
 
 Repository contains discussion topics around multi-tenancy options.
+
+### Azure Arc
+
+[Azure Arc-enabled Kubernetes](https://github.com/JanneMattila/azure-arc-demos/tree/main/k8s)
+
+[Azure Application Services](https://github.com/JanneMattila/azure-application-services-demo)
+
+### Misc
+
+[kubernetes webhook controller in C#](https://github.com/JanneMattila/k8s-webhook-controller)
