@@ -5,6 +5,24 @@ Collection of my different Kubernetes notes mostly in context of
 [Azure Arc-enabled Kubernetes](https://docs.microsoft.com/en-us/azure/azure-arc/kubernetes/overview)
 but also some that are also relevant for vanilla [Kubernetes](https://kubernetes.io/docs/home/).
 
+## Super important topics to understand
+
+- Understand the Kubernetes [relase cycle](https://github.com/kubernetes/community/blob/master/contributors/devel/sig-release/release.md#the-release-cycle)
+  - ~3 releases per year
+  - 3 minor versions supported at a time
+  - [Support window is one year](https://kubernetes.io/blog/2020/08/31/kubernetes-1-19-feature-one-year-support/)
+- Understand [AKS Kubernetes Release Calendar](https://docs.microsoft.com/en-us/azure/aks/supported-kubernetes-versions?tabs=azure-cli#aks-kubernetes-release-calendar)
+
+All of the above just means that:
+
+> There is no such thing as Kubernetes Long-term support (LTS)
+
+and
+
+> You need to plan your cluster upgrades due to frequent releases
+
+and be careful because many things might break because of [Kubernetes API deprecations](https://kubernetes.io/docs/reference/using-api/deprecation-guide/).
+
 ## Playgrounds
 
 Different playgrounds have been created for testing very specific scenario.
