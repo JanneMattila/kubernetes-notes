@@ -87,3 +87,23 @@ Repository contains discussion topics around multi-tenancy options.
 ### Misc
 
 [kubernetes webhook controller in C#](https://github.com/JanneMattila/k8s-webhook-controller)
+
+## Discussion topics
+
+- Development process
+- Automation
+- In-cluster vs. out-of-cluster components
+  - Database or messaging service from PaaS or DIY
+  - Support to handle support for DIY!
+- GitOps vs. Traditional CI/CD a.k.a. `kubectl apply ...`
+- [Multi-tenancy](https://github.com/JanneMattila/playground-k8s-multi-tenancy)
+- Cluster management
+  - RACI
+  - Operational tasks
+  - Monitoring
+  - Cluster upgrades
+  - Application manifest updates
+  - You need to understand Kubernetes specific details -> Certified Kubernetes Administrator (CKA) required?
+- Monitoring
+  - App vs. Cluster monitoring
+  - Innerloop development & microservice debugging
