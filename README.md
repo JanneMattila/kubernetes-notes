@@ -72,6 +72,8 @@ and replicate that environment for your own testing purposes.
 
 [Playground AKS GitOps](https://github.com/JanneMattila/playground-aks-gitops)
 
+[Playground ACR (with AKS)](https://github.com/JanneMattila/playground-aks-acr)
+
 ### Multi-tenancy
 
 [Playground-k8s-multi-tenancy](https://github.com/JanneMattila/playground-k8s-multi-tenancy)
