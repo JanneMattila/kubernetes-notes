@@ -90,6 +90,10 @@ Repository contains discussion topics around multi-tenancy options.
 
 [kubernetes webhook controller in C#](https://github.com/JanneMattila/k8s-webhook-controller)
 
+## End-to-end scenarios
+
+[AKS Workshop](https://github.com/JanneMattila/aks-workshop)
+
 ## Discussion topics
 
 - Development process
