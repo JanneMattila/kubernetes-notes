@@ -8,11 +8,15 @@ Here are some CLI tools that can help you built your automations:
 
 > Curl is a command-line tool for transferring data specified with URL syntax
 
+See usage example [here](https://github.com/JanneMattila/hassio-addon-azuredns/blob/main/addon/run.sh).
+
 ## jq
 
 [jq](https://github.com/stedolan/jq)
 
 > jq is a lightweight and flexible command-line JSON processor
+
+See usage example [here](https://github.com/JanneMattila/yarp-aad-le/blob/main/deploy.sh).
 
 ## yq
 
