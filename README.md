@@ -94,6 +94,10 @@ Repository contains discussion topics around multi-tenancy options.
 
 [AKS Workshop](https://github.com/JanneMattila/aks-workshop)
 
+## Tools
+
+Check [tools](./tools.md) page for more information about handy tools for your automation scenarios. 
+
 ## Discussion topics
 
 - Development process
