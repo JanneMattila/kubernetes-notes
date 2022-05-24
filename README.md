@@ -80,6 +80,10 @@ and replicate that environment for your own testing purposes.
 
 Repository contains discussion topics around multi-tenancy options.
 
+### Azure Red Hat OpenShift (ARO)
+
+[Playground for Azure Red Hat OpenShift (ARO)](https://github.com/JanneMattila/playground-aro)
+
 ### Azure Arc
 
 [Azure Arc-enabled Kubernetes](https://github.com/JanneMattila/azure-arc-demos/tree/main/k8s)
