@@ -106,6 +106,9 @@ Check [tools](./tools.md) page for more information about handy tools for your a
 
 - Development process
 - Automation
+- [Add-ons, extensions, and other integrations with Azure Kubernetes Service](https://learn.microsoft.com/en-us/azure/aks/integrations)
+  > Add-ons are a fully supported way to provide extra capabilities for your AKS cluster. Add-ons' installation, configuration, and lifecycle is managed by AKS.
+  - Support and [Who ya gonna call?](https://en.wikipedia.org/wiki/Ghostbusters)
 - In-cluster vs. out-of-cluster components
   - Database or messaging service from PaaS or DIY
   - Support to handle support for DIY!
