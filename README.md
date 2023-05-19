@@ -15,7 +15,7 @@ but also some that are also relevant for vanilla [Kubernetes](https://kubernetes
 
 All of the above just means that
 
-> There is no such thing as Kubernetes Long-term support (LTS)
+> There is no such thing as Kubernetes Long-term support (LTS)*
 
 and
 
@@ -26,6 +26,8 @@ and
 > You need to plan your cluster upgrades
 
 because many things might break because of [Kubernetes API deprecations](https://kubernetes.io/docs/reference/using-api/deprecation-guide/).
+
+*: Microsoft has added LTS support for AKS clusters. Read more from [Long Term Support (LTS)](https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions#long-term-support-lts).
 
 ## Playgrounds
 
