@@ -26,6 +26,8 @@ and
 > You need to plan your cluster upgrades
 
 because many things might break because of [Kubernetes API deprecations](https://kubernetes.io/docs/reference/using-api/deprecation-guide/).
+See [Don't fall behind the Kubernetes changes](https://www.jannemattila.com/kubernetes/2023/12/11/k8s-api-deprecations.html)
+blog post for API deprecation examples.
 
 *: Microsoft has added LTS support for AKS clusters. Read more from [Long Term Support (LTS)](https://learn.microsoft.com/en-us/azure/aks/supported-kubernetes-versions#long-term-support-lts).
 
